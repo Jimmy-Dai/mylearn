@@ -3,5 +3,3 @@ then do what I wanna
 Im green bird 
 and you?
 
-ok
-
