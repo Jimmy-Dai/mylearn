@@ -4,4 +4,4 @@ Im green bird
 and you?
 
 gogogo
-gogo
+go
